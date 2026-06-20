@@ -114,16 +114,16 @@ def lambda_handler(event, context):
 ## Screenshots
 
 **Function created and deployed:**
-![Lambda function deployed](screenshots/lambda-function-deployed.png)
+![Lambda function deployed](lambda-function-deployed.png)
 
 **Successful test — payment notification output:**
-![Successful test result](screenshots/successful-test-payment-notification.png)
+![Successful test result](successful-test-payment-notification.png)
 
 **Error test — invalid amount returns 400:**
-![Error test result](screenshots/error-test-400-status.png)
+![Error test result](error-test-400-status.png)
 
 **CloudWatch logs — execution details:**
-![CloudWatch logs](screenshots/cloudwatch-logs-execution-details.png)
+![CloudWatch logs](cloudwatch-logs-execution-details.png)
 
 ---
 
