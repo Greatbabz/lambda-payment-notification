@@ -1,1 +1,0 @@
-# lambda-payment-notification
